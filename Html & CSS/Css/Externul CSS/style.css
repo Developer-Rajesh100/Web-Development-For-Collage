@@ -1,0 +1,58 @@
+/* Style Using Tag  */
+/* h1{
+    color: blueviolet;
+} */
+
+/* Apply Style Using Class  */
+.h{
+    text-align: center;
+}
+.bl{
+    color: brown;
+}
+
+.bg-color{
+   background-color: #FF9130;
+}
+
+.use-color{
+    color: blueviolet;
+}
+
+.use-text-align{
+    /* text-align: end; */
+    /* text-align: center; */
+    text-align: justify;
+}
+
+.use-font-size{
+    font-size: 50px;
+}
+
+.use-padding{
+    text-align: justify;
+    background-color: aqua;
+    padding: 80px 20px 40px 50px;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+}
+
+.use-margin{
+    background-color: blueviolet;
+    text-align: justify;
+    border: 3px solid black;
+    margin: 50px 60px 70px 0px;
+   
+}
+
+.use-border{
+    border: 2px solid black;
+    padding: 40px;
+    margin: 50px;
+}
+
+.style-dev{
+    background-color: chocolate;
+}
