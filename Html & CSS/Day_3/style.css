@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Merriweather&family=Roboto&family=Ubuntu&display=swap');
+
+
+.use-width{
+    font-weight: 1000;
+}
+
+.use-outline{
+    /* border: 1px solid black; */
+    /* outline-style: dashed; */
+    /* outline-style: dotted; */
+    /* outline-style: groove; */
+    outline-style: outset;
+}
+
+.textDecoration{
+    /* text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: line-through; */
+    text-decoration: line-through underline overline;
+}
+
+.textTransform{
+    /* text-transform: uppercase; */
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+
+.textShadow{
+    text-shadow: 2px 2px 5px purple;
+}
+
+.googleFont{
+    font-family: 'Edu TAS Beginner', cursive;
+}
+
+.ubuntuFont{
+    font-family: 'Ubuntu', cursive;
+}
+
+.robotoFont{
+    font-family: 'Roboto', cursive;
+}
+
+img{
+    width: 200px;
+}
+
+.division{
+    background-color: rgb(126, 101, 148);
+}
+
+.use-section{
+    text-transform: capitalize;
+    text-align: justify;
+}
