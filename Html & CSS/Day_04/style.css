@@ -1,0 +1,53 @@
+/* h1{
+    color: brown;
+} */
+
+.Selecter-with-class{
+    background-color: aquamarine;
+}
+
+#select-with-id{
+    background-color: cadetblue;
+}
+
+.division{
+    background-color: brown;
+    /* height: 100px;
+    width: 20rem; */
+    /* height: 80vh;
+    width: 50vh; */ 
+}
+
+.display-type-block{
+    background-color: blueviolet;
+    display: inline;
+}
+
+.display-type-inline{
+    background-color: darkgoldenrod;
+    display: block;
+}
+
+.first-div{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
+
+.second-div{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
