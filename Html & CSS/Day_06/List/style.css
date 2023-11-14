@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.unorderd-list{
+    background-color: rgb(202, 144, 202);
+    padding: 20px;
+    border-radius: 20px;
+}
+.orderd-list{
+    background-color: rgb(254, 217, 149);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.unorderd-list ul{
+    /* list-style-type: circle; */
+    list-style-type: square;
+
+}
+
+.orderd-list ol{
+    list-style-type: lower-roman;
+}
